@@ -182,9 +182,9 @@ Estimated Calories : 285 kcal
 
 **Abhinav Kumar**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/abhinav5112
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+LinkedIn: www.linkedin.com/in/abhinavv-kumarr-5nov
 
 ---
 If you found this project helpful, don't forget to give it a Star!
